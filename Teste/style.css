@@ -1,0 +1,24 @@
+*{
+    font-family: monospace;
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+h1{
+    padding-top: 200px;
+    align-items: center;
+    border-top: 100px;
+    font-size: 40;
+}
+
+form input{
+    border-radius: 4px;
+    height: auto;
+    width: auto;
+}
+
